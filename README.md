@@ -3,8 +3,10 @@
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
   
-<br>
-# Hi, I am Stanley!👨‍🎓
+<p align="center">
+  # Hi, I am Stanley!👨‍🎓
+</p>
+
 
 
 <img  src="https://github-readme-stats.vercel.app/api?username=stanley4429&show_icons=true&theme=tokyonight&icon_color=6392DF">
