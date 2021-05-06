@@ -2,6 +2,8 @@
 <p align="center">
   <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 </p>
+  
+<br>
 # Hi, I am Stanley!👨‍🎓
 
 
